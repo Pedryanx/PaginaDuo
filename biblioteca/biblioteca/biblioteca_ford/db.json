@@ -1,0 +1,21 @@
+{
+  "Usuarios": [
+    {
+      "NomeUsuario": "Leonardo",
+      "IdadeUsuario": "40",
+      "EnderecoUsuario": "Rua dos Girassóis, 123",
+      "EmailUsuario": "leonardo@example.com",
+      "TelefoneUsuario": "11987654321",
+      "id": "abcd"}
+  ],
+  "Livros": [
+    {
+      "NomeLivro": "O Pequeno Príncipe",
+      "AutorLivro": "Antoine de Saint-Exupéry",
+      "BiografiaLivro": "Um piloto cai com seu avião..... ",
+      "EdicaoLivro": "2012",
+      "EditoraLivro": "Editora XYZ",
+      "id": "ff00"
+    }
+  ]
+}
